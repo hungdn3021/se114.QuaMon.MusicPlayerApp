@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> Trình phát nhạc </string>
+        <string name = "app_launcher_name"> Trình phát nhạc </string>
+        <string name = "playlist_empty"> Danh sách phát của bạn trống </string>
+        <string name = "rename_song"> Đổi tên bài hát </string>
+        <string name = "rename_song_error"> Xảy ra lỗi trong quá trình đổi tên </string>
+        <string name = "rename_song_empty"> Vui lòng điền vào tất cả các trường </string>
+        <string name = "enable_song_repetition"> Lặp lại bài hát hiện tại </string>
+        <string name = "disable_song_repetition"> Dừng lặp lại bài hát hiện tại </string>
+        <string name = "song_repetition_enabled"> Đã bật lặp lại bài hát hiện tại </string>
+        <string name = "song_repetition_disabled"> Đã lặp lại việc lặp lại bài hát hiện tại </string>
+        <string name = "enable_shuffle"> Bật xáo trộn </string>
+        <string name = "disable_shuffle"> Tắt shuffle </string>
+        <string name = "shuffle_enabled"> Đã bật xáo trộn </string>
+        <string name = "shuffle_disabled"> Ngẫu nhiên bị vô hiệu hóa </string>
+        <string name = "enable_autoplay"> Bật tự động phát </string>
+        <string name = "disable_autoplay"> Tắt tự động phát </string>
+        <string name = "autoplay_enabled"> Đã bật tự động phát </string>
+        <string name = "autoplay_disabled"> Tự động phát bị tắt </string>
+         <string name = "settings"> Cài Đặt </string>
+    <string name="user_en">Sử dụng tiếng anh</string>
+     
+
+        <string name = "previous"> Kế trước </string>
+        <string name = "playpause"> Phát / Tạm dừng </string>
+        <string name = "next"> Kế tiếp </string>
+
+        <!-- Danh sách phát -->
+        <string name = "add_file_to_playlist"> Thêm tệp vào danh sách phát </string>
+        <string name = "add_folder_to_playlist"> Thêm thư mục vào danh sách phát </string>
+        <string name = "manage_playlists"> Quản lý danh sách phát </string>
+        <string name = "playlists"> Danh sách phát </string>
+        <string name = "create_playlist"> Tạo danh sách phát </string>
+        <string name = "rename_playlist"> Đổi tên danh sách phát </string>
+        <string name = "playlist_name_exists"> Danh sách phát có tên đó đã tồn tại </string>
+        <string name = "remove_playlist"> Xóa danh sách phát </string>
+        <string name = "remove_playlist_description"> Điều này sẽ chỉ xóa danh sách phát được chọn, không phải các tệp thực tế. </string>
+        <string name = "remove_playlist_description_placeholder"> Điều này sẽ chỉ xóa danh sách phát \ "% s \", không phải các tệp thực tế. </string>
+        <string name = "remove_from_playlist"> Xóa khỏi danh sách phát </string>
+        <string name = "remove_from_playlist_description"> Bài hát này sẽ chỉ xóa các mục khỏi danh sách phát \ "% s \", các tệp thực tế sẽ không bị xóa. </string>
+        <string name = "delete_the_files_too"> Xóa các tệp quá </string>
+        <string name = "open_playlist"> Mở danh sách phát </string>
+        <string name = "all_songs_cannot_be_deleted"> \'Tất cả danh sách bài hát\' không thể bị xóa </string>
+        <string name = "empty_playlist"> Danh sách phát hiện tại trống </string>
+        <string name = "fetching_songs"> Tìm nạp các bài hát </string>
+        <string name = "all_songs"> Tất cả bài hát </string>
+        <string name = "create_playlist_from_folder"> Tạo danh sách phát mới từ thư mục </string>
+        <string name = "folder_contains_no_audio"> Thư mục được chọn không chứa tệp âm thanh </string>
+        <string name = "delete_current_song"> Xóa bài hát hiện tại </string>
+        <string name = "remove_current_song"> Xóa bài hát hiện tại khỏi danh sách phát </string>
+        <string name = "show_filename"> Hiển thị tên tệp dưới dạng tiêu đề bài hát: </string>
+        <string name = "title_is_not_available"> Nếu tiêu đề không có sẵn </string>
+        <string name = "show_album_cover"> Hiển thị bìa album trên màn hình chính </string>
+
+        <!-- Cài đặt -->
+        <string name = "equalizer"> Bộ chỉnh âm </string>
+        <string name = "swap_prev_next"> Hoán đổi các nút tai nghe kế trước/kế tiếp </string>
+
+        <!-- Câu hỏi thường gặp -->
+        <string name = "faq_1_title"> Làm cách nào tôi có thể chuyển tiếp nhanh các bài hát? </string>
+        <string name = "faq_1_text"> Bạn có thể nhấp vào các văn bản thời lượng hiện tại hoặc tối đa gần thanh tìm kiếm, điều này sẽ di chuyển bài hát về phía sau hoặc tiến lên. </string>
+</resources>
